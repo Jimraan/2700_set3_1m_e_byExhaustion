@@ -1,0 +1,5 @@
+It can be seen here that for any element X in the 256-element domain P(A), 
+1 <= |X| <= 8
+As the function f(X) returns |X|, the domain consists of 256 occurrences of the numbers 1-8 
+Each one is mapped to one of the values of the target, which is 1 - 8.
+Therefore the function is onto/surjective, but not far from one-to-one/injective ■
